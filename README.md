@@ -1,6 +1,6 @@
 # README
 
-This is a sample [Express](https://expressjs.com) app example on [Simplifyd](https://simplifyd.com).
+This is a sample [Express](https://expressjs.com) app deployed on [Simplifyd](https://simplifyd.com).
 
 The app in this repo is deployed at [https://nodejs-example.simplifyd.app](https://nodejs-example.simplifyd.app).
 
